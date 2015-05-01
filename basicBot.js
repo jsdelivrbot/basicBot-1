@@ -181,7 +181,7 @@
     var basicBot = {
         version: "2.3.4",
         status: false,
-        name: "basicBot",
+        name: "ValericaBot",
         loggedInID: null,
         scriptLink: "https://raw.githubusercontent.com/Viscerals/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -191,9 +191,9 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "ValericaBot",
             language: "english",
-            chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+            chatLink: "https://raw.githubusercontent.com/Viscerals/basicBot/master/basicBot.js",
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
             startupEmoji: false, // true or false
