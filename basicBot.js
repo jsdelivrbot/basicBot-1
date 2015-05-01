@@ -274,7 +274,7 @@
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
-            website: ""http://forum.botoflegends.com/"",
+            website: "http://forum.botoflegends.com/",
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
