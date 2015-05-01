@@ -183,7 +183,7 @@
         status: false,
         name: "ValericaBot",
         loggedInID: null,
-        scriptLink: "https://raw.githubusercontent.com/Viscerals/basicBot/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         chat: null,
@@ -193,7 +193,7 @@
         settings: {
             botName: "ValericaBot",
             language: "english",
-            chatLink: "https://raw.githubusercontent.com/Viscerals/basicBot/master/basicBot.js",
+            chatLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
             startupEmoji: false, // true or false
